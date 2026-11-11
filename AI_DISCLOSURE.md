@@ -49,3 +49,7 @@
 - Claude explained that the difference equals one validation sample out of 171 and that choosing a scaler after seeing results conflicts with assignment 5.2.
 - How I used it: I kept StandardScaler, which I had chosen before running the experiments.
 
+**9. README formatting and readability**
+- Question: I asked for assistance in improving the visual layout of the README file
+- Claude/Gemini restructured the document using clear Markdown headers, tables, and bullet points to make the project summary easy to navigate.
+- How I used it: I reviewed the suggested formatting, made minor text adjustments to match my workflow, and applied the structure to the main README.md.
